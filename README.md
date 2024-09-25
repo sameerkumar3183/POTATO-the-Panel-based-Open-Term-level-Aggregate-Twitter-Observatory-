@@ -2,12 +2,10 @@
 A Flask-based project for analyzing Twitter data. It ingests tweet data from TSV files and allows users to search for terms, 
 retrieving insights like tweet counts, unique users, average likes, and more. Simple to 
 set up, with optional Docker support and well-documented for easy use and extension.
-
-
-
+=======================================================================================================
 Twitter Data Analysis with Flask
 This project provides a simple solution for analyzing tweet data, allowing users to search for terms and retrieve various insights. It ingests data from a TSV file containing tweets, organizes it, and provides a searchable interface built with Flask.
-
+====================================================================================================
 Features:
 Data Ingestion: Loads and structures tweet data from TSV files to facilitate efficient querying.
 Search Functionality: Allows users to search tweets based on specific terms and retrieve statistics such as:
